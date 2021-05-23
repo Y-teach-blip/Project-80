@@ -1,0 +1,20 @@
+body {
+   text-align: center;
+   font-family: 'Freestyle Script';
+   color: white;
+   background-image: radial-gradient(circle at 36.26% 79.48%, #008fff 0, #008aff 6.25%, #0085ff 12.5%, #007eff 18.75%, #5277ff 25%, #7870f9 31.25%, #9568ef 37.5%, #ab5fe4 43.75%, #be55d8 50%, #ce4bca 56.25%, #db41bc 62.5%, #e537ad 68.75%, #ed2f9d 75%, #f2288d 81.25%, #f6267d 87.5%, #f7286d 93.75%, #f62e5d 100%);
+}
+
+#div_paragraph_1 {
+    width: 49%;
+}
+
+#div_paragraph_2 {
+    width: 49%;
+}
+
+#showPara1,
+#showPara2 {
+    width: 100%;
+    margin: 10px;
+}
